@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Modal and Nodal",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a web scraping algorithm to produce a database of preeminent jazz musicians to facilitate a scale research.",
+      "skills": ["MangoDB", "Rust"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/kcho2027/Modal-and-Nodal"
+    },
+    {
+      "title": "Soccer Match Prediction Model",
+      "imageSrc": "projects/project.png",
+      "description": "Engineered a comprehensive full-stack web application to showcase a machine learning-based soccer match prediction model.",
+      "skills": ["Python", "Flask", "Scikit-learn", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/CS196Illinois/Group12-FA23"
+    }
+  ]
