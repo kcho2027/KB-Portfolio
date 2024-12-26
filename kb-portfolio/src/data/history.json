@@ -1,4 +1,11 @@
 [
+  {
+    "role": "Quant Analyst Intern",
+    "organisation": "SquareKettle Street Securities",
+    "startDate": "Aug, 2024",
+    "endDate": "present",
+    "experiences": ["Collaborated with the option portfolio team to analyze the cyclicality of the commodities and ETFs to develop quantative analytical models"]
+  },
     {
       "role": "Executive Officer/Co-Founder",
       "organisation": "PaGeKo Biomimetics Club",
@@ -6,12 +13,6 @@
       "endDate": "Present",
       "experiences": ["Orchestrated the club's financial strategies", "oversaw the management of a $5,000 budget,"]
       
-    },
-    {
-      "role": "Software Developer",
-      "organisation": "Doxa Robotics Club",
-      "startDate": "Aug, 2021",
-      "endDate": "May, 2023",
-      "experiences": ["Worked on PID Control System", "Led the team to the World Championship"]
     }
+    
   ]

@@ -7,7 +7,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Kyoungbin</h1>
         <p className={styles.description}>
           I'm currently an undergrad student at the University of Illinois majoring in computer science. 
-          My interest includes application development, natural language processing, and quantitative development.
+          My interest includes application development, quantitative development, and low latency development with real time data processing.
         </p>
         <a href="mailto:ronaldc5@illinois.edu" className={styles.contactBtn}>Contact Me</a>
     </div>

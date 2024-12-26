@@ -1,18 +1,38 @@
 [
-    {
-      "title": "Modal and Nodal",
-      "imageSrc": "projects/project.png",
-      "description": "Developed a web scraping algorithm to produce a database of preeminent jazz musicians to facilitate a scale research.",
-      "skills": ["MangoDB", "Rust"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/kcho2027/Modal-and-Nodal"
-    },
-    {
-      "title": "Soccer Match Prediction Model",
-      "imageSrc": "projects/project.png",
-      "description": "Engineered a comprehensive full-stack web application to showcase a machine learning-based soccer match prediction model.",
-      "skills": ["Python", "Flask", "Scikit-learn", "HTML"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/CS196Illinois/Group12-FA23"
-    }
+  {
+  "title": "Compression Algorithm for Market Data",
+  "imageSrc": "projects/project.png",
+  "description": "Collaborated with 4-person development team to create a custom hybrid compression algorithm utilizing huffman, lz77, and delta encoding, and reduced market data storage by 70 percent while maintaining sub-millisecond latency.",
+  "skills": ["C++", "Wireshark", "Boost", "Multi-threaded design", "C++17", "Boost.ASIO", "Protocol Buffers", "Linux IPC"],
+  "demo": "https://drive.google.com/drive/folders/1vAs76bXcVdFVqLU577T5vh4O0ABrwisw",
+  "source": "https://gitlab.engr.illinois.edu/ie421_high_frequency_trading_fall_2024/ie421_hft_fall_2024_group_06/group_06_project",
+  "date": "Sept 2024 – Present"
+  },
+  {
+  "title": "MBTI Predictor",
+  "imageSrc": "projects/project.png",
+  "description": "Engineered a recommendation engine processing media content (Instagram posts scraped using GraphAPI), utilizing collaborative filtering and content-based algorithms to suggest personalized movies, music, and connect users with similar MBTI profiles.",
+  "skills": ["TypeScript", "FastAPI", "Next.js", "NLP", "PostgreSQL", "OAuth2", "GraphAPI"],
+  "demo": "",
+  "source": "https://github.com/CS222-UIUC/main-project-team59",
+  "date": "Aug 2024 – Dec 2024"
+  },
+  {
+  "title": "Modal and Nodal",
+  "imageSrc": "projects/project.png",
+  "description": "Developed a web scraping algorithm to produce a database of preeminent jazz musicians to facilitate scale research into recording session collaborations to regional influences in the music community. Employed Rust for web scraping and data manipulation, leveraging its performance and safety features.",
+  "skills": ["Rust", "MongoDB", "Web Scraping", "Data Analysis"],
+  "demo": "https://www.example.com",
+  "source": "https://github.com/kcho2027/Modal-and-Nodal",
+  "date": "Jan 2024 – May 2024"
+  },
+  {
+  "title": "SoccerMatchPro",
+  "imageSrc": "projects/project.png",
+  "description": "Engineered a comprehensive full-stack web application to showcase a machine learning-based soccer match prediction model",
+  "skills": ["Python", "Flask", "Scikit Learn", "HTML", "CSS", "Figma"],
+  "demo": "https://www.example.com",
+  "source": "https://github.com/CS196Illinois/Group12-FA23",
+  "date": "Aug 2023 – Dec 2023"
+  }
   ]

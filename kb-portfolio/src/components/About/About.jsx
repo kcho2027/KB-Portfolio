@@ -11,8 +11,8 @@ export const About = () => {
         <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}><img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon"></img>
             <div className={styles.aboutItemText}>
-                <h3>Frontend Developer</h3>
-                <p>I'm a frontend developer with experience in building responsive and optimized site</p>
+                <h3>Quantative Developer</h3>
+                <p>I'm a quantative developer with experience in working with the low-latency systems and real time data analysis</p>
             </div>
             </li>
             <li className={styles.aboutItem}><img src={getImageUrl("about/serverIcon.png")} alt="Cursor icon"></img>
@@ -23,8 +23,8 @@ export const About = () => {
             </li>
             <li className={styles.aboutItem}><img src={getImageUrl("about/cursorIcon.png")} alt="UI icon"></img>
             <div className={styles.aboutItemText}>
-                <h3>UI Designer</h3>
-                <p>I have designed multiple landing pages and have created design systems as well</p>
+                <h3>Machine Learning Engineer</h3>
+                <p>I have worked with data cleaning, training the model, testing the models to build a reliable machine learning model</p>
             </div>
             </li>
         </ul>
